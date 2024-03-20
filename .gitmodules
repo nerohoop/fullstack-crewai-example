@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = ./backend
+[submodule "nextjs_app"]
+	path = nextjs_app
+	url = ./nextjs_app
